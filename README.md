@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm 23 years old<br>I live in Istanbul<br>I graduated from Kocaeli University / Computer Engineering Department in September 2022<br>I'm interested in Web Development<br>I am currently trying to improve myself on .NET Core
+I'm 23 years old<br>I live in Istanbul<br>I graduated from Kocaeli University / Computer Engineering Department in September 2022<br>I'm interested in Web Development<br>I am currently trying to improve myself on .NET
 
 
 ## 🌐 Socials:
